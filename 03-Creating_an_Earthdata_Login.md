@@ -2,11 +2,9 @@
 
 # Table of Contents
 
-[What is NASA’s Earthdata? Why do I need a Login?
-[1](#what-is-nasas-earthdata-why-do-i-need-a-login)](#what-is-nasas-earthdata-why-do-i-need-a-login)
+[What is NASA’s Earthdata? Why do I need a Login?](#what-is-nasas-earthdata-why-do-i-need-a-login)
 
-[How to Create an Earthdata Login
-[2](#how-to-create-an-earthdata-login)](#how-to-create-an-earthdata-login)
+[How to Create an Earthdata Login](#how-to-create-an-earthdata-login)
 
 # What is NASA’s Earthdata? Why do I need a Login?
 
