@@ -3,10 +3,9 @@
 
 # Table of Contents
 
-[What is Visual Studio Code? What is a Jupyter Notebook?
-[1](#what-is-visual-studio-code-what-is-a-jupyter-notebook)](#what-is-visual-studio-code-what-is-a-jupyter-notebook)
+[What is Visual Studio Code? What is a Jupyter Notebook?](#what-is-visual-studio-code-what-is-a-jupyter-notebook)
 
-[How to Download Visual Studio Code [1](#_Toc171338809)](#_Toc171338809)
+[How to Download Visual Studio Code](#_Toc171338809)
 
 # What is Visual Studio Code? What is a Jupyter Notebook?
 
