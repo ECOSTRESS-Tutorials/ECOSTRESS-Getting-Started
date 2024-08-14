@@ -3,11 +3,9 @@
 
 # Table of Contents
 
-[What is Earthdata Search?
-[1](#what-is-earthdata-search)](#what-is-earthdata-search)
+[What is Earthdata Search?](#what-is-earthdata-search)
 
-[How to Download ECOSTRESS Data from Earthdata Search
-[1](#_Toc171344526)](#_Toc171344526)
+[How to Download ECOSTRESS Data from Earthdata Search](#how-to-download-ecostress-data-from-earthdata-search)
 
 # What is Earthdata Search?
 
