@@ -3,12 +3,11 @@
 
 # Table of Contents
 
-[What is QGIS? [1](#what-is-qgis)](#what-is-qgis)
+[What is QGIS?](#what-is-qgis)
 
-[How to Download QGIS [1](#how-to-download-qgis)](#how-to-download-qgis)
+[How to Download QGIS](#how-to-download-qgis)
 
-[Preparing QGIS for use with ECOSTRESS Data
-[5](#preparing-qgis-for-use-with-ecostress-data)](#preparing-qgis-for-use-with-ecostress-data)
+[Preparing QGIS for use with ECOSTRESS Data](#preparing-qgis-for-use-with-ecostress-data)
 
 # What is QGIS?
 
