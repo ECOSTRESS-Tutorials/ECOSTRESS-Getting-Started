@@ -4,11 +4,9 @@
 # Table of Contents
 
 [What are shapefiles and why are they useful for working with ECOSTRESS
-data?
-[1](#what-are-shapefiles-and-why-are-they-useful-for-working-with-ecostress-data)](#what-are-shapefiles-and-why-are-they-useful-for-working-with-ecostress-data)
+data?](#what-are-shapefiles-and-why-are-they-useful-for-working-with-ecostress-data)
 
-[Creating a Study Area Shapefile
-[1](#creating-a-study-area-shapefile)](#creating-a-study-area-shapefile)
+[Creating a Study Area Shapefile](#creating-a-study-area-shapefile)
 
 # What are shapefiles and why are they useful for working with ECOSTRESS data?
 
