@@ -2,22 +2,17 @@
 
 # Table of Contents
 
-[What is Homebrew? [1](#what-is-homebrew)](#what-is-homebrew)
+[What is Homebrew?](#what-is-homebrew)
 
-[How to Install Homebrew
-[2](#how-to-install-homebrew)](#how-to-install-homebrew)
+[How to Install Homebrew](#how-to-install-homebrew)
 
-[What is Conda and Mamba?
-[4](#what-is-conda-and-mamba)](#what-is-conda-and-mamba)
+[What is Conda and Mamba?](#what-is-conda-and-mamba)
 
-[How to install Conda and Mamba
-[5](#how-to-install-conda-and-mamba)](#how-to-install-conda-and-mamba)
+[How to install Conda and Mamba](#how-to-install-conda-and-mamba)
 
-[What is an Environment?
-[6](#what-is-an-environment)](#what-is-an-environment)
+[What is an Environment?](#what-is-an-environment)
 
-[How to Create an Environment
-[7](#how-to-create-an-environment)](#how-to-create-an-environment)
+[How to Create an Environment](#how-to-create-an-environment)
 
 # What is Homebrew?
 
