@@ -3,10 +3,9 @@
 
 ## Table of Contents
 
-[What is Python? [1](#what-is-python)](#what-is-python)
+[What is Python?](#what-is-python)
 
-[How to Download Python
-[1](#how-to-download-python)](#how-to-download-python)
+[How to Download Python](#how-to-download-python)
 
 ## What is Python?
 
