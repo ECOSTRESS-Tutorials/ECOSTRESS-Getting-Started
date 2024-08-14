@@ -3,11 +3,9 @@
 
 # Table of Contents
 
-[How to Request ECOSTRESS Data from AppEEARS
-[1](#how-to-request-ecostress-data-from-appeears)](#how-to-request-ecostress-data-from-appeears)
+[How to Request ECOSTRESS Data from AppEEARS](#how-to-request-ecostress-data-from-appeears)
 
-[How to Download Requested ECOSTRESS Data from AppEEARS
-[9](#how-to-download-requested-ecostress-data-from-appeears)](#how-to-download-requested-ecostress-data-from-appeears)
+[How to Download Requested ECOSTRESS Data from AppEEARS](#how-to-download-requested-ecostress-data-from-appeears)
 
 ## How to Request ECOSTRESS Data from AppEEARS
 
