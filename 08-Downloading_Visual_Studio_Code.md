@@ -17,7 +17,7 @@ single document, allowing for an interactive coding process.
 
 ## Using Visual Studio Code in the Browser
 
-VScode can run either in the web browser or as a standalone app. To use VScode in the browser, nagivate to [vscode.dev](https://vscode.dev/).
+VScode can run either in the web browser or as a standalone app. To use VScode in the browser, nagivate to [vscode.dev](https://vscode.dev/). It's best to use the [Microsoft Edge](https://microsoft.com/edge) browser to run [vscode.dev](https://vscode.dev/).
 
 ## How to Download Visual Studio Code App
 
