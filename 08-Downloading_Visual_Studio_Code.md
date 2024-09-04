@@ -1,21 +1,25 @@
 > *This tutorial will show you how to download Visual Studio Code and
 > set up a Jupyter Notebook on MacOS.*
 
-# Table of Contents
+## Table of Contents
 
 [What is Visual Studio Code? What is a Jupyter Notebook?](#what-is-visual-studio-code-what-is-a-jupyter-notebook)
 
 [How to Download Visual Studio Code](#_Toc171338809)
 
-# What is Visual Studio Code? What is a Jupyter Notebook?
+## What is Visual Studio Code? What is a Jupyter Notebook?
 
-<span id="_Toc171338809" class="anchor"></span>Visual Studio Code is a
+<span id="_Toc171338809" class="anchor"></span>Visual Studio Code (VScode) is a
 free software that is used to write and edit code. We will use visual
 studio code to write Python code in a Jupyter Notebook. A Jupyter
 Notebook is a tool that allows you to write code and view outputs in a
 single document, allowing for an interactive coding process.
 
-## How to Download Visual Studio Code
+## Using Visual Studio Code in the Browser
+
+VScode can run either in the web browser or as a standalone app. To use VScode in the browser, nagivate to [vscode.dev](https://vscode.dev/).
+
+## How to Download Visual Studio Code App
 
 1.  Start by going to <https://code.visualstudio.com/> or by searching
     the web for **Visual Studio Code**. Once you get to the site, click
