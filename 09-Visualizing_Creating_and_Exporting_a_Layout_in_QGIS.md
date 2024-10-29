@@ -3,16 +3,13 @@
 
 # Table of Contents
 
-[What is a Layout? [1](#what-is-a-layout)](#what-is-a-layout)
+[What is a Layout?](#what-is-a-layout)
 
-[Visualizing a Raster in QGIS
-[1](#visualizing-a-raster-in-qgis)](#visualizing-a-raster-in-qgis)
+[Visualizing a Raster in QGIS](#visualizing-a-raster-in-qgis)
 
-[Designing a Layout in QGIS
-[6](#designing-a-layout-in-qgis)](#designing-a-layout-in-qgis)
+[Designing a Layout in QGIS](#designing-a-layout-in-qgis)
 
-[Exporting a Layout in QGIS
-[20](#exporting-a-layout-in-qgis)](#exporting-a-layout-in-qgis)
+[Exporting a Layout in QGIS](#exporting-a-layout-in-qgis)
 
 # What is a Layout?
 
